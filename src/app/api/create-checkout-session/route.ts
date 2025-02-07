@@ -1,4 +1,4 @@
-import { apiVersion } from "@/sanity/env";
+
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 
