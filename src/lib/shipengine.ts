@@ -1,7 +1,7 @@
-import ShipEngine from "shipengine";
+// import ShipEngine from "shipengine";
 
-const shipengine = new ShipEngine({
-  apiKey: process.env.SHIPENGINE_API_KEY as string,
-});
+// const shipengine = new ShipEngine({
+//   apiKey: process.env.SHIPENGINE_API_KEY as string,
+// });
 
-export { shipengine };
+// export { shipengine };
